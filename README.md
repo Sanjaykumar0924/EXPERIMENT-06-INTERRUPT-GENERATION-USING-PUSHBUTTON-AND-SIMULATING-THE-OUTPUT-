@@ -1,8 +1,8 @@
 # EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT
 
-NAME: PRIYANKA A
+NAME: SANJAY KUMAR H
 
-REG.NO: 212222230113
+REG.NO: 212223040182
 
 ### Aim:
 To Interface a push button and generate an interrupt , simulate it using an led and simuate it on  proteus 
@@ -94,8 +94,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 ## STM 32 CUBE PROGRAM :
 ```
-NAME:PRIYANKA A
-Reg No:212222230113
+NAME:SANJAY KUMAR H
+Reg No:212223040182
 ```
 ```c
 
